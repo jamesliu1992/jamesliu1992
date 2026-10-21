@@ -5,13 +5,13 @@
 ## 🔥 今日 AI 头条
 
 <!--AI-HEADLINE-START-->
-- **Nvidia 加持的 doubleAI 推出"代码执行模型"：AI 不写代码，直接住进程序里跑**：以色列初创 doubleAI（获 Nvidia 等投资 2.2 亿美元）发布首款"代码执行模型"Maxwell，让 AI 直接住进运行中的程序里自动优化性能，直指算力成本飙升的痛点。
+- **MiniMax 发布 M3.1 Flash，国产小模型把 agent 成本打下来 70%**：官方称速度接近上一代 3 倍、执行 agent 任务成本降低 70%，推理便宜才是 agent 真正进入消费级的关键。
 <!--AI-HEADLINE-END-->
 
 ## 🧰 今日工具推荐
 
 <!--TOOL-PICK-START-->
-- **Excalidraw**：手绘风在线白板，浏览器打开就能画流程图架构图，备考画逻辑框架、咨询画思路草图都快，导出 PNG 直接贴文档。
+- **ONLYOFFICE**：开源免费的 Office 三件套，文档表格演示全搞定；格式兼容性最强、界面和微软 Office 几乎一样，换电脑应急零学习成本。
 <!--TOOL-PICK-END-->
 
 ## 📚 我的仓库
