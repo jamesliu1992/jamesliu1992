@@ -5,13 +5,17 @@
 ## 🔥 今日 AI 头条
 
 <!--AI-HEADLINE-START-->
-- **MiniMax 发布 M3.1 Flash，国产小模型把 agent 成本打下来 70%**：官方称速度接近上一代 3 倍、执行 agent 任务成本降低 70%，推理便宜才是 agent 真正进入消费级的关键。
+
+- **OpenAI 模型正式登陆 Google Cloud，云厂商开始"卖别人的模型"了**：Google Cloud 10 月 21 日正式上架 OpenAI 模型，企业客户可直接用已有的消费承诺购买和调用；云竞争从"我的模型最好"变成"我的货架最全"，用 AI 的人不用换云就能比价换模型。
+
 <!--AI-HEADLINE-END-->
 
 ## 🧰 今日工具推荐
 
 <!--TOOL-PICK-START-->
-- **ONLYOFFICE**：开源免费的 Office 三件套，文档表格演示全搞定；格式兼容性最强、界面和微软 Office 几乎一样，换电脑应急零学习成本。
+
+- **n8n**：开源可视化工作流自动化，拖拉拽连接 400+ 应用，不写代码也能让 AI 每天早上自动把行业资讯简报发到你邮箱。
+
 <!--TOOL-PICK-END-->
 
 ## 📚 我的仓库
@@ -22,4 +26,5 @@
 | [toolbox](https://github.com/jamesliu1992/toolbox) | 效率工具箱 | 每天 |
 
 ---
+
 *本页面每日自动更新。*
