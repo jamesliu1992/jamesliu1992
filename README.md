@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lianyong Liu
+# 👋 Hi, I'm James Liu
 
 > Technology consultant · 每天分享 AI 资讯与效率工具。
 
